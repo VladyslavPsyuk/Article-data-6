@@ -1,0 +1,47 @@
+data = [
+    # North America
+    {"Name": "Sun Valley MRF", "Region": "North America", "Capacity": 547500, "Area": 4.9 * 4047},
+    {"Name": "Newby Island", "Region": "North America", "Capacity": 420000, "Area": 342 * 4047},
+    {"Name": "Western Placer", "Region": "North America", "Capacity": 395000, "Area": 50 * 4047},
+    {"Name": "GFL Toronto", "Region": "North America", "Capacity": 300000, "Area": 150000 * 0.0929},
+    {"Name": "LRS Chicago", "Region": "North America", "Capacity": 286000, "Area": 250000 * 0.0929},
+    {"Name": "GreenWaste Recovery", "Region": "North America", "Capacity": 245000, "Area": 10 * 4047},
+    {"Name": "Sunset Park MRF", "Region": "North America", "Capacity": 236000, "Area": 11 * 4047},
+    {"Name": "WM Elkridge", "Region": "North America", "Capacity": 230000, "Area": 120000 * 0.0929},
+    {"Name": "Ricova", "Region": "North America", "Capacity": 210000, "Area": 15 * 4047},
+    {"Name": "Southern Nevada", "Region": "North America", "Capacity": 207000, "Area": 110000 * 0.0929},
+    {"Name": "Entsorga WV", "Region": "North America", "Capacity": 165000, "Area": 10 * 4047},
+    {"Name": "All American MRF", "Region": "North America", "Capacity": 200000, "Area": 8 * 4047},
+    {"Name": "Waste Connections Passaic", "Region": "North America", "Capacity": 173000, "Area": 5 * 4047},
+    {"Name": "Rumpke Columbus", "Region": "North America", "Capacity": 174000, "Area": 12 * 4047},
+    {"Name": "Cascades Vancouver", "Region": "North America", "Capacity": 168000, "Area": 7 * 4047},
+    {"Name": "Solid Waste Palm Beach", "Region": "North America", "Capacity": 168000, "Area": 20 * 4047},
+    {"Name": "WM Azusa", "Region": "North America", "Capacity": 174000, "Area": 14 * 4047},
+    {"Name": "GFL Denver", "Region": "North America", "Capacity": 160000, "Area": 9 * 4047},
+    {"Name": "Texas Disposal Systems", "Region": "North America", "Capacity": 149000, "Area": 2000 * 4047},
+    {"Name": "WM Portland", "Region": "North America", "Capacity": 140000, "Area": 8 * 4047},
+    
+    # Europe
+    {"Name": "ROVANI", "Region": "Europe", "Capacity": 300000, "Area": 150000},
+    {"Name": "Områ Facility", "Region": "Europe", "Capacity": 250000, "Area": 20000},
+    {"Name": "Ca Na Putxa", "Region": "Europe", "Capacity": 120000, "Area": 40000},
+    {"Name": "Klettwitz", "Region": "Europe", "Capacity": 180000, "Area": 12000},
+    {"Name": "Ecoparc 4", "Region": "Europe", "Capacity": 300000, "Area": 60000},
+    {"Name": "Poznan ITPO", "Region": "Europe", "Capacity": 210000, "Area": 30000},
+    {"Name": "Frankfurt Nordwest", "Region": "Europe", "Capacity": 250000, "Area": 22000},
+    {"Name": "Telheiras", "Region": "Europe", "Capacity": 200000, "Area": 18000},
+    {"Name": "Manchester Sky", "Region": "Europe", "Capacity": 200000, "Area": 25000},
+    {"Name": "Wels Plant", "Region": "Europe", "Capacity": 150000, "Area": 10000},
+    
+    # South America
+    {"Name": "UTM Leste", "Region": "South America", "Capacity": 550000, "Area": 45000},
+    {"Name": "CTR Rio", "Region": "South America", "Capacity": 3600000, "Area": 2000000},
+    {"Name": "Lomas Los Colorados", "Region": "South America", "Capacity": 1800000, "Area": 700000},
+    {"Name": "Ambipar GIRI", "Region": "South America", "Capacity": 60000, "Area": 8500},
+    {"Name": "Norte III", "Region": "South America", "Capacity": 2000000, "Area": 500000},
+    {"Name": "Ecourbis Sul", "Region": "South America", "Capacity": 400000, "Area": 30000},
+    {"Name": "Erechim", "Region": "South America", "Capacity": 150000, "Area": 12000},
+    {"Name": "CTR Candeias", "Region": "South America", "Capacity": 350000, "Area": 20000},
+    {"Name": "Parque Ambientar", "Region": "South America", "Capacity": 120000, "Area": 15000},
+    {"Name": "Loga", "Region": "South America", "Capacity": 300000, "Area": 25000}
+]
